@@ -27,10 +27,7 @@
 <table align="center" style="border-collapse: collapse; background: transparent; border: none;">
   <tr style="border: none;">
     <td align="center" width="250" style="border: none;">
-      <!-- ========================================== -->
-      <!-- AQUÍ VA TU GIF PRINCIPAL (Ej: img/frieren.gif) -->
-      <!-- ========================================== -->
-      <img src="img/frieren.gif" width="200" alt="Frieren Principal" />
+      <img src="img/Frieren.png" width="200" alt="Frieren Principal" />
     </td>
     <td style="border: none;">
       <pre style="background: transparent; font-size: 14px; border: none; color: #bb9af7;">
@@ -56,20 +53,19 @@ Vibes: Phonk, After Dark, Pop 🎧
 <div>
     <br><br>
     <p align="right">
-        <a href="https://www.youtube.com/watch?v=waAlgFq9Xq8">
-            <!-- AQUÍ PUEDES PONER TU IMAGEN LOCAL O URL DE YOUTUBE -->
-            <img src="https://i.ytimg.com/vi/waAlgFq9Xq8/maxresdefault.jpg" width="170" align="right" style="border-radius: 8px; margin-left: 15px;">
+        <a href="https://www.youtube.com/watch?v=Cl5Vkd4N03Q">
+            <!-- Portada sacada directamente de los servidores de YouTube -->
+            <img src="https://img.youtube.com/vi/Cl5Vkd4N03Q/maxresdefault.jpg" width="170" align="right" style="border-radius: 8px; margin-left: 15px;">
         </a>
         <b>Mr.Kitty - After Dark 🌃 ⏪<br>🎶 Currently on loop at 3 AM. 🎶<br><br></b>
     </p>
-    <br><br>
+    <!--<br><br>
     <p align="left">
         <a href="https://www.youtube.com/watch?v=y-sQweZqUqE">
-            <!-- AQUÍ PUEDES PONER TU IMAGEN LOCAL O URL DE YOUTUBE -->
             <img src="https://i.ytimg.com/vi/y-sQweZqUqE/maxresdefault.jpg" width="170" align="left" style="border-radius: 8px; margin-right: 15px;">
         </a>
         <b><br>Kordhell - Murder In My Mind 🚗💨<br>🎵 Coding & Ricing focus vibes. 🎵</b>
-    </p>
+    </p>-->
 </div>
 
 <br><br><br>
@@ -147,10 +143,11 @@ Vibes: Phonk, After Dark, Pop 🎧
 ### 📊 Real-Time GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthonyafk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anthonyafk&theme=tokyonight" alt="GitHub Stats Card" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anthonyafk&theme=tokyonight&hide_border=true&background=1A1B26&ring=bb9af7&fire=7aa2f7&currStreakNum=c0caf5" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyafk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7aa2f7" alt="Top Languages" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anthonyafk&theme=tokyonight" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anthonyafk&theme=tokyonight" alt="Productive Time" width="48%" />
 </div>
 
 ---
@@ -159,15 +156,16 @@ Vibes: Phonk, After Dark, Pop 🎧
 
 <div align="center">
   <!-- ======================================================= -->
-  <!-- REEMPLAZA LAS RUTAS POR TUS ARCHIVOS LOCALES (Ej: img/2b.gif) -->
+  <!-- ARCHIVOS LOCALES-->
   <!-- ======================================================= -->
-  <img src="img/2b.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="2B" />
+
+  <!-- <img src="img/2b.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="2B" 
   <img src="img/ganyu.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Ganyu" />
   <img src="img/ahri.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Ahri" />
   <img src="img/reze.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Reze" />
   <img src="img/jinwoo.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Sung Jin-woo" />
   <img src="img/tengen.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Tengen" />
-  <img src="img/rem.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Rem" />
+  <img src="img/rem.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Rem" /> />-->
   <br><br>
   <p><i>"You're going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn't it? I'm sure you'll overcome this. You'll walk again... soon."</i><br><b>— Guts (Berserk)</b></p>
 </div>

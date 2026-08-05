@@ -128,7 +128,7 @@ Vibes: Phonk, After Dark, Pop 🎧
 
 ---
 
-### 🐍 My Contributions Game
+### 🐍 Contributions Game
 
 <div align="center">
     <picture>
@@ -143,11 +143,11 @@ Vibes: Phonk, After Dark, Pop 🎧
 ### 📊 Real-Time GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anthonyafk&theme=tokyonight" alt="GitHub Stats Card" width="48%" />
+  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anthonyafk&theme=tokyonight" alt="GitHub Stats Card" width="48%" /> />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anthonyafk&theme=tokyonight&hide_border=true&background=1A1B26&ring=bb9af7&fire=7aa2f7&currStreakNum=c0caf5" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anthonyafk&theme=tokyonight" alt="Repos per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anthonyafk&theme=tokyonight" alt="Productive Time" width="48%" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anthonyafk&theme=tokyonight" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anthonyafk&theme=tokyonight" alt="Productive Time" width="48%" /> />-->
 </div>
 
 ---

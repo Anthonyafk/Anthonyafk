@@ -6,7 +6,7 @@
   
   <br><br>
 
-  <!-- Badges estilo JohnKun (Separados por colores) -->
+  <!-- Badges estéticos -->
   <img src="https://img.shields.io/badge/COMPLETING_SOCIAL_SERVICE_%40_UNAM-9d7cd8?style=for-the-badge&label=STATUS&labelColor=24283b" alt="Status" />
   <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER_%26_FULL--STACK-bb9af7?style=for-the-badge&label=ROLE&labelColor=24283b" alt="Role" />
   <br>
@@ -27,8 +27,10 @@
 <table align="center" style="border-collapse: collapse; background: transparent; border: none;">
   <tr style="border: none;">
     <td align="center" width="250" style="border: none;">
-      <!-- Frieren Principal en GIF puro -->
-      <img src="https://media.tenor.com/1-ZED_vJ6pQAAAAi/frieren-sousou-no-frieren.gif" width="200" alt="Frieren" />
+      <!-- ========================================== -->
+      <!-- AQUÍ VA TU GIF PRINCIPAL (Ej: img/frieren.gif) -->
+      <!-- ========================================== -->
+      <img src="img/frieren.gif" width="200" alt="Frieren Principal" />
     </td>
     <td style="border: none;">
       <pre style="background: transparent; font-size: 14px; border: none; color: #bb9af7;">
@@ -47,6 +49,30 @@ Vibes: Phonk, After Dark, Pop 🎧
     </td>
   </tr>
 </table>
+
+<!-- ================================================= -->
+<!-- SECCIÓN DE MÚSICA ESTILO JOHNKUN (Reproductor flotante) -->
+<!-- ================================================= -->
+<div>
+    <br><br>
+    <p align="right">
+        <a href="https://www.youtube.com/watch?v=waAlgFq9Xq8">
+            <!-- AQUÍ PUEDES PONER TU IMAGEN LOCAL O URL DE YOUTUBE -->
+            <img src="https://i.ytimg.com/vi/waAlgFq9Xq8/maxresdefault.jpg" width="170" align="right" style="border-radius: 8px; margin-left: 15px;">
+        </a>
+        <b>Mr.Kitty - After Dark 🌃 ⏪<br>🎶 Currently on loop at 3 AM. 🎶<br><br></b>
+    </p>
+    <br><br>
+    <p align="left">
+        <a href="https://www.youtube.com/watch?v=y-sQweZqUqE">
+            <!-- AQUÍ PUEDES PONER TU IMAGEN LOCAL O URL DE YOUTUBE -->
+            <img src="https://i.ytimg.com/vi/y-sQweZqUqE/maxresdefault.jpg" width="170" align="left" style="border-radius: 8px; margin-right: 15px;">
+        </a>
+        <b><br>Kordhell - Murder In My Mind 🚗💨<br>🎵 Coding & Ricing focus vibes. 🎵</b>
+    </p>
+</div>
+
+<br><br><br>
 
 ---
 
@@ -106,6 +132,18 @@ Vibes: Phonk, After Dark, Pop 🎧
 
 ---
 
+### 🐍 My Contributions Game
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthonyafk/Anthonyafk/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anthonyafk/Anthonyafk/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anthonyafk/Anthonyafk/output/github-contribution-grid-snake-dark.svg">
+    </picture>
+</div>
+
+---
+
 ### 📊 Real-Time GitHub Stats
 
 <div align="center">
@@ -120,13 +158,16 @@ Vibes: Phonk, After Dark, Pop 🎧
 ### ✨ Hall of Fame (Daily Inspo)
 
 <div align="center">
-  <img src="https://media.tenor.com/PZ7sQY3UDBEAAAAi/2b-nier-automata.gif" width="100" alt="2B" />
-  <img src="https://media.tenor.com/FwY-hE-85d8AAAAi/ganyu-genshin.gif" width="100" alt="Ganyu" />
-  <img src="https://media.tenor.com/r_zK3Xb0xPMAAAAi/ahri-league-of-legends.gif" width="100" alt="Ahri" />
-  <img src="https://media.tenor.com/s6n5T7uE648AAAAi/reze-chainsaw-man.gif" width="100" alt="Reze" />
-  <img src="https://media.tenor.com/x0RSEt85h4UAAAAi/sung-jin-woo-solo-leveling.gif" width="100" alt="Sung Jin-woo" />
-  <img src="https://media.tenor.com/tHqgU3sK1U8AAAAi/demon-slayer-kimetsu-no-yaiba.gif" width="100" alt="Tengen" />
-  <img src="https://media.tenor.com/E5Q5E2a_XmQAAAAi/rem-re-zero.gif" width="100" alt="Rem" />
+  <!-- ======================================================= -->
+  <!-- REEMPLAZA LAS RUTAS POR TUS ARCHIVOS LOCALES (Ej: img/2b.gif) -->
+  <!-- ======================================================= -->
+  <img src="img/2b.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="2B" />
+  <img src="img/ganyu.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Ganyu" />
+  <img src="img/ahri.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Ahri" />
+  <img src="img/reze.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Reze" />
+  <img src="img/jinwoo.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Sung Jin-woo" />
+  <img src="img/tengen.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Tengen" />
+  <img src="img/rem.gif" width="100" style="border-radius: 8px; margin: 5px;" alt="Rem" />
   <br><br>
   <p><i>"You're going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn't it? I'm sure you'll overcome this. You'll walk again... soon."</i><br><b>— Guts (Berserk)</b></p>
 </div>

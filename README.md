@@ -6,7 +6,7 @@
 
   <!-- Badges estéticos -->
   <img src="https://img.shields.io/badge/COMPLETING_SOCIAL_SERVICE_%40_UNAM-9d7cd8?style=for-the-badge&label=STATUS&labelColor=24283b" alt="Status" />
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER_%26_FULL--STACK-bb9af7?style=for-the-badge&label=ROLE&labelColor=24283b" alt="Role" />
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER_%26_GAME DEV-bb9af7?style=for-the-badge&label=ROLE&labelColor=24283b" alt="Role" />
   <br>
   <img src="https://img.shields.io/badge/LINUX_%26_WAYLAND_ENTHUSIAST-7aa2f7?style=for-the-badge&label=VIBE&labelColor=24283b" alt="Vibe" />
   <br><br>
@@ -38,7 +38,7 @@ Games: Genshin, Elden Ring, Fortnite, FIFA
 Anime: Frieren, Berserk, Mob Psycho 100
 Vibes: Phonk, After Dark, Pop 🎧
 
-└───────────💻 hope you find something useful 💻───────────┘
+`╰────────❯_ process exited with code 0 ───────────╯`
       </pre>
     </td>
   </tr>

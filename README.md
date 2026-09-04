@@ -31,7 +31,7 @@
 ---------------------------------------------------------
 Username: Anthonyafk 👾
 WhoamI: Antonio Castillo Hernández
-Status: Graduating soon @ UNAM 🎓
+Status: Completing Social Service @ FC UNAM 🎓
 OS: Arch Linux btw (Hyprland / Wayland)
 Mains: Ahri & Briar (LoL) | 2B (NieR) | Skirk & Ganyu (Genshin)
 Games: Genshin, Elden Ring, Fortnite, FIFA
